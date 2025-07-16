@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Alishba Kashaf Faisal
 
-<!--
-**AKF-Code-Zone/AKF-Code-Zone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSCS Student | Frontend Web Developer | Code Stylist  
+📍 Gujrat, Pakistan | 🌐 Open to Remote Internships & Collaborations
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+I'm a 5th semester Computer Science student passionate about turning ideas into clean, interactive web interfaces.
+
+With every line of HTML and CSS I write, I aim for both structure and style — and I’m now focused on leveling up with JavaScript and Cloud (AWS). I believe good frontend isn’t just about code — it’s about experience, clarity, and beauty.
+
+I'm organized, committed, and love bringing personality into my projects — whether it's a game, a brand simulation, or a full interface.
+
+---
+
+## ⚙ Skills & Tools
+
+- *Languages:* HTML5, CSS3, JavaScript (ES6+), C++  
+- *Core Skills:* DOM manipulation, Responsive Design, OOP, DSA (Linked List, Stack, Queue)  
+- *Tools:* Git, GitHub, VS Code, Chrome DevTools  
+- *Learning Now:* AWS Cloud, React  
+- *Soft Skills:* Teamwork, Quick Learning, Communication, Clean Code
+
+---
+
+## 🔨 Projects Showcase
+
+| Project | Description |
+|--------|-------------|
+| 🎮 [Tic Tac Toe – C++](https://github.com/akf-code-zone/tic-tac-toe-cpp) | A basic 2-player console game created using condition logic in C++. |
+| 🎓 [Tec Tutors – Learning Platform](https://github.com/akf-code-zone/tec-tutors) | Simulated platform for learning management with login system and course view. |
+| 🏥 [Hospital Management – OOP](https://github.com/akf-code-zone/hospital-management-system) | A C++ system applying object-oriented principles for managing hospital operations. |
+| 🔗 [Hospital System – DSA](https://github.com/akf-code-zone/hospital-management-dsa) | C++ project using data structures like linked lists, stacks, and queues. |
+| ☕ [Mug & Crust – Coffee Website](https://github.com/akf-code-zone/mug-and-crust) | A responsive, aesthetic website built with HTML/CSS for a fictional coffee brand. |
+
+---
+
+## 📫 Contact & Connect
+
+- 📧 [Email Me](mailto:alishbakashaffaisal@gmail.com)  
+- 💼 LinkedIn: (Coming Soon)  
+- 🧠 Languages: English, Urdu  
+- 🤝 Open to: Internships · Web Projects · Team Collaboration
+
+---
+
+> “Be the kind of woman who codes her own future.”

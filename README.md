@@ -30,9 +30,9 @@ I'm organized, committed, and love bringing personality into my projects — whe
 | Project | Description |
 |--------|-------------|
 | 🎮 [Tic Tac Toe – C++](https://github.com/akf-code-zone/tic-tac-toe-cpp) | A basic 2-player console game created using condition logic in C++. |
-| 🎓 [Tec Tutors – Learning Platform](https://github.com/akf-code-zone/tec-tutors) | Simulated platform for learning management with login system and course view. |
+| 🎓 [Tec Tutors – Learning Platform](https://github.com/akf-code-zone/tec-tutors-oop-cpp) | Simulated platform for learning management with login system and course view. |
 | 🏥 [Hospital Management – OOP](https://github.com/akf-code-zone/hospital-management-system) | A C++ system applying object-oriented principles for managing hospital operations. |
-| 🔗 [Hospital System – DSA](https://github.com/akf-code-zone/hospital-management-dsa) | C++ project using data structures like linked lists, stacks, and queues. |
+| 🔗 [Hospital System – DSA](https://github.com/akf-code-zone/hospital-management-system-dsa) | C++ project using data structures like linked lists, stacks, and queues. |
 | ☕ [Mug & Crust – Coffee Website](https://github.com/akf-code-zone/mug-and-crust) | A responsive, aesthetic website built with HTML/CSS for a fictional coffee brand. |
 
 ---

@@ -43,7 +43,6 @@ I’m currently seeking:
 
 - 🌐 Remote or On-Site Internships in *Frontend Web Development*
 - 💻 Junior/Entry-Level Roles in *HTML, CSS, JavaScript*
-- ☁ Learning-focused opportunities in *Cloud (AWS)* and *React*
 - 🤝 A collaborative environment where I can contribute, learn, and grow
 
 If you're looking for a frontend developer who is passionate, quick to learn, and ready to build real-world solutions — let's connect!

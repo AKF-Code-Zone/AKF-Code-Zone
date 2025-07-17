@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Alishba Kashaf Faisal
 
-🎓 BSCS Student | Frontend Web Developer | Code Stylist  
-📍 Gujrat, Pakistan | 🌐 Open to Remote Internships & Collaborations
+ BSCS Student | Frontend Web Developer | Code Stylist  
+ Gujrat, Pakistan |  Open to Remote Internships & Collaborations
 
 ---
 
-## 💡 About Me
+##  About Me
 
 I'm a 5th semester Computer Science student passionate about turning ideas into clean, interactive web interfaces.
 
@@ -15,17 +15,17 @@ I'm organized, committed, and love bringing personality into my projects — whe
 
 ---
 
-## ⚙ Skills & Tools
+##  Skills & Tools
 
-- *Languages:* HTML5, CSS3, JavaScript (ES6+), C++  
-- *Core Skills:* DOM manipulation, Responsive Design, OOP, DSA (Linked List, Stack, Queue)  
-- *Tools:* Git, GitHub, VS Code, Chrome DevTools  
-- *Learning Now:* AWS Cloud, React  
-- *Soft Skills:* Teamwork, Quick Learning, Communication, Clean Code
+- Languages: HTML5, CSS3, JavaScript (ES6+), C++  
+- Core Skills: DOM manipulation, Responsive Design, OOP, DSA (Linked List, Stack, Queue)  
+- Tools: Git, GitHub, VS Code, Chrome DevTools  
+- Learning Now: Javascript(Advanced), Cloud AWS  
+- Soft Skills: Teamwork, Quick Learning, Communication, Clean Code
 
 ---
 
-## 🔨 Projects Showcase
+##  Projects Showcase
 
 | Project | Description |
 |--------|-------------|
@@ -37,24 +37,24 @@ I'm organized, committed, and love bringing personality into my projects — whe
 
 ---
 
-## 💼 Job Interest Summary
+##  Job Interest Summary
 
 I’m currently seeking:
 
-- 🌐 Remote or On-Site Internships in *Frontend Web Development*
-- 💻 Junior/Entry-Level Roles in *HTML, CSS, JavaScript*
-- 🤝 A collaborative environment where I can contribute, learn, and grow
+-  Remote or On-Site Internships in *Frontend Web Development*
+-  Junior/Entry-Level Roles in *HTML, CSS, JavaScript*
+-  A collaborative environment where I can contribute, learn, and grow
 
 If you're looking for a frontend developer who is passionate, quick to learn, and ready to build real-world solutions — let's connect!
 
 ---
 
-## 📫 Contact & Connect
+##  Contact & Connect
 
-- 📧 [Email Me](mailto:alishbakashaffaisal@gmail.com)  
-- 💼 LinkedIn: (Coming Soon)  
-- 🧠 Languages: English, Urdu  
-- 🤝 Open to: Internships · Web Projects · Team Collaboration
+-  [Email Me](mailto:alishbakashaffaisal@gmail.com)  
+-  LinkedIn: www.linkedin.com/in/alishba-kashaf-faisal  
+-  Languages: English, Urdu  
+-  Open to: Internships · Web Projects · Team Collaboration
 
 ---
 

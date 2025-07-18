@@ -20,7 +20,7 @@ I'm organized, committed, and love bringing personality into my projects — whe
 - Languages: HTML5, CSS3, JavaScript, C++  
 - Core Skills: DOM manipulation, Responsive Design, OOP, DSA (Linked List, Stack, Queue)  
 - Tools: Git, GitHub, VS Code  
-- Learning Now: Javascript(Advanced), Cloud AWS  
+- Learning Now: Javascript(Advanced)  
 - Soft Skills: Teamwork, Quick Learning, Communication, Clean Code
 
 ---

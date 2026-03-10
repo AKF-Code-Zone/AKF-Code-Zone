@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Alishba Kashaf Faisal
 
- BSCS Student | Frontend Web Developer | Code Stylist  
+ BSCS Student | Frontend Developer| MERN stack | Code Stylist  
  Gujrat, Pakistan |  Open to Remote Internships & Collaborations
 
 ---
 
 ##  About Me
 
-I'm a 5th semester Computer Science student passionate about turning ideas into clean, interactive web interfaces.
+I'm a 6th semester Computer Science student passionate about turning ideas into clean, interactive web interfaces.
 
-With every line of HTML and CSS I write, I aim for both structure and style — and I’m now focused on leveling up with JavaScript and Cloud (AWS). I believe good frontend isn’t just about code — it’s about experience, clarity, and beauty.
+With every line of HTML,CSS and javscript I write, I aim for both structure and style — and I’m now focused on leveling up with MERN Stack. I believe good frontend isn’t just about code — it’s about experience, clarity, and beauty.
 
 I'm organized, committed, and love bringing personality into my projects — whether it's a game, a brand simulation, or a full interface.
 
@@ -17,23 +17,12 @@ I'm organized, committed, and love bringing personality into my projects — whe
 
 ##  Skills & Tools
 
-- Languages: HTML5, CSS3, JavaScript, C++  
-- Core Skills: DOM manipulation, Responsive Design, OOP, DSA (Linked List, Stack, Queue)  
+- Languages: HTML5, CSS3, JavaScript, C++, Tailwind CSS 
+- Core Skills: DOM manipulation, Responsive Design, OOP, DSA (Linked List, Stack, Queue)
+- Framework: React 
 - Tools: Git, GitHub, VS Code  
 - Learning Now: Javascript(Advanced)  
 - Soft Skills: Teamwork, Quick Learning, Communication, Clean Code
-
----
-
-##  Projects Showcase
-
-| Project | Description |
-|--------|-------------|
-|  [Tic Tac Toe – C++](https://github.com/akf-code-zone/tic-tac-toe-cpp) | A basic 2-player console game created using condition logic in C++. |
-|  [Tec Tutors – Learning Platform](https://github.com/akf-code-zone/tec-tutors-oop-cpp) | Simulated platform for learning management with login system and course view. |
-|  [Hospital Management – OOP](https://github.com/akf-code-zone/hospital-management-system) | A C++ system applying object-oriented principles for managing hospital operations. |
-|  [Hospital System – DSA](https://github.com/akf-code-zone/hospital-management-system-dsa) | C++ project using data structures like linked lists, stacks, and queues. |
-|  [Mug & Crust – Coffee Website](https://github.com/akf-code-zone/mug-and-crust) | A responsive, aesthetic website built with HTML/CSS for a fictional coffee brand. |
 
 ---
 

@@ -20,8 +20,7 @@ I'm organized, committed, and love bringing personality into my projects — whe
 - Languages: HTML5, CSS3, JavaScript, C++, Tailwind CSS 
 - Core Skills: DOM manipulation, Responsive Design, OOP, DSA (Linked List, Stack, Queue)
 - Framework: React 
-- Tools: Git, GitHub, VS Code  
-- Learning Now: Javascript(Advanced)  
+- Tools: Git, GitHub, VS Code    
 - Soft Skills: Teamwork, Quick Learning, Communication, Clean Code
 
 ---
@@ -31,7 +30,7 @@ I'm organized, committed, and love bringing personality into my projects — whe
 I’m currently seeking:
 
 -  Remote or On-Site Internships in *Frontend Web Development*
--  Junior/Entry-Level Roles in *HTML, CSS, JavaScript*
+-  Junior/Entry-Level Roles in Web 
 -  A collaborative environment where I can contribute, learn, and grow
 
 If you're looking for a frontend developer who is passionate, quick to learn, and ready to build real-world solutions — let's connect!
